@@ -13,8 +13,8 @@ body {
 .wrapper {
 	width: 960px;
 	background: #fff;
-	padding: 50px 45px 50px 45px; 
-	margin: 0, 100px, 0, 100px;
+	/*padding: 50px 45px 50px 45px; 
+	margin: 0, 100px, 0, 100px;*/
 	text-align: center;
 }
 
