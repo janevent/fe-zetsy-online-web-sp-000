@@ -58,7 +58,7 @@ img {
 }
 
 .main-image {
-  border: solid gray;
+  border: solid gray, 2em;
 }
 
  
