@@ -26,13 +26,13 @@ body {
 
 .title {
   
-  color: #778899;
+  color: light gray;
   font-family: 'Baskerville';
   font-size: 75px;
 }
 
 h2 {
-  color: #778899;
+  color: light gray;
 }
 
 .column {
